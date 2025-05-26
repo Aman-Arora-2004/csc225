@@ -2,7 +2,7 @@ Assignment 3 of my Data Structures and Algorithms 1 class. The rest of them were
 
 Implemented an arraymatch function using JAVA. 
 
-Two arrays, 𝑨 and 𝑩, are defined to be matches of one another if at least one of the following two
+Two arrays, 𝑨 and 𝑩, of size n, are defined to be matches of one another if at least one of the following two
 conditions is satisfied:
 
 I.
