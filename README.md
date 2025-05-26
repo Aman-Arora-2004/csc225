@@ -1,6 +1,6 @@
 Assignment 3 of my Data Structures and Algorithms 1 class. The rest of them were handwritten and submitted.
 
-Implemented an arraymatch function using JAVA. 
+Implemented an arraymatch function using JAVA. I then did a time complexity analysis of the algorithm I wrote. 
 
 Two arrays, 𝑨 and 𝑩, of size n, are defined to be matches of one another if at least one of the following two
 conditions is satisfied:
@@ -17,4 +17,7 @@ II.
   c) (𝑨𝟐 matches 𝑩𝟏) AND (𝑨𝟐 matches 𝑩𝟐)
   Note: if 𝒏 is not divisible by 2, condition II is not satisfied.
 
-  Outpets YES if they match and NO if they do not match.
+  Outputs YES if they match and NO if they do not match.
+
+
+
